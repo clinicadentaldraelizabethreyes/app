@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" tvg-logo="" group-title="usa channels",TRUTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" tvg-logo="" group-title="usa channels",NICKELODEON
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" tvg-logo="" group-title="usa channels",CARTOON NETWORK
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" tvg-logo="" group-title="usa channels",DISCOVERY
+http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
