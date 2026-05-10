@@ -11,3 +11,12 @@ http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy FHD" tvg-logo="https://i.ibb.co/0jHs79tX/hbo-comedy.png" group-title="US Channels",HBO Comedy FHD
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX FHD" tvg-logo="https://i.ibb.co/mV9wzc4W/trutv.png" group-title="US Channels",FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX FHD" tvg-logo="https://i.ibb.co/mV9wzc4W/trutv.png" group-title="US Channels",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="https://i.ibb.co/gbhcvFKG/ESPN.png" group-title="US Sports",ESPN HD
+http://stream.bottledesk.net/p/AgBEQhs/index.m3u8
