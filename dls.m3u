@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" tvg-logo="" group-title="usa channels",TRUTV
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV FHD" tvg-logo="https://i.ibb.co/mV9wzc4W/trutv.png" group-title="US Channels",truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" tvg-logo="" group-title="usa channels",NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon FHD" tvg-logo="https://i.ibb.co/VY3Cy8p8/Nickelodeon.png" group-title="US Channels",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" tvg-logo="" group-title="usa channels",CARTOON NETWORK
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network FHD" tvg-logo="https://i.ibb.co/MysF1z2Z/cartoon-network.png" group-title="US Channels",Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" tvg-logo="" group-title="usa channels",DISCOVERY
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel (US) FHD" tvg-logo="https://i.ibb.co/TD0d9kHL/discovery-channel.jpg" group-title="US Channels",Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/tracks-v1a1/mono.m3u8
