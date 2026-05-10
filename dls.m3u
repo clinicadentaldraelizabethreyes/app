@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" tvg-logo="" group-title="News",TRUTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" tvg-logo="" group-title="usa channels",TRUTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
