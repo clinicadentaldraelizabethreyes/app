@@ -169,6 +169,15 @@ p {
   margin-bottom: 1rem;
 }
 
+.roboto-title {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
 abbr[title] {
   -webkit-text-decoration: underline dotted;
           text-decoration: underline dotted;
